@@ -1,4 +1,4 @@
-# Create-DDLBasedOnSMTPAddresses.PS1
+# Create-DDLBasedOnSMTPAddresses.PS1  0603 test
 # A script to update custom attribute 13 for mailboxes with the primary SMTP address for the mailbox
 # and then create a dynamic distribution list based for each domain used in the organization
 # https://github.com/12Knocksinna/Office365itpros/blob/master/Create-DDLBasedOnSMTPAddresses.PS1
