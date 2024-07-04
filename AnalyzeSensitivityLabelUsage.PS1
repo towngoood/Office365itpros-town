@@ -101,4 +101,4 @@ $Report | Out-GridView
 # https://office365itpros.com/office-365-github-repository/ for information about the scripts we write.
 
 # Do not use our scripts in production until you are satisfied that the code meets the needs of your organization. Never run any code downloaded from 
-# the Internet without first validating the code in a non-production environment.
+# the Internet without first validating the code in a non-production environment..
