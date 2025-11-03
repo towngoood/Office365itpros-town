@@ -20,6 +20,7 @@ Else {
       Workload  = $AuditData.Workload
       Site      = $AuditData.SiteUrl
       FileName  = $AuditData.SourceFileName 
+      Flierute  = $AuditDara.Filename
       SortTime  = $AuditData.CreationTime }
     $Report.Add($ReportLine) }
   # Now that we have parsed the information for the link used audit records, let's track what happened to each link
